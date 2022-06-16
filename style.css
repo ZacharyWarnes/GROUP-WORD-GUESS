@@ -1,8 +1,11 @@
 .card {
     display: flex;
+    flex-direction: column;
     justify-content: space-between;
+    text-align: center;
     border: solid black;
     border-width: 1em;
     border-radius: 100px;
+    
 
 };
